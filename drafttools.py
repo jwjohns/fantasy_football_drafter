@@ -21,7 +21,7 @@ params={'fitcol':'ADP',\
         'VORper':[25,10,10,10,25,25]}
 
 # default data
-data=pd.read_csv('FantasyPros_2014_Preseason_Overall_Rankings.csv')
+data=pd.read_csv('ff_2016.csv')
 
 
 class Draft:
